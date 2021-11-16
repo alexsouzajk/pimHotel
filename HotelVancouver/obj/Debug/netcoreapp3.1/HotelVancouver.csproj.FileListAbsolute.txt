@@ -24,3 +24,4 @@ C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroReservas.resources
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormReservas.resources
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroCliente.resources
+C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarReservas.resources

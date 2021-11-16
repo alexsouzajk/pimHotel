@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlkrCsFKCPKq7dc4uNXC36XTQdmaP1bKG5EE/l4SKBe+Ri5jtKVqHRk1KB09SXrkt3EqwPTUA2V68hgAcWdc2Q==",
+  "dgSpecHash": "9jqKkhi13AQzyuZbrl/Rk5q7XbVr4JxvT1q4uEHuGFzmTyqFc780Y1GacY2O8Fs8li/6m3a8hCByhcq1hvpOYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\HotelVancouver.csproj",
+  "projectFilePath": "C:\\git\\pimHotel\\HotelVancouver\\HotelVancouver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emily\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Emily\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

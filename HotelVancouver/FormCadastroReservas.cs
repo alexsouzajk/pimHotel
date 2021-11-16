@@ -5,12 +5,17 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Text;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace HotelVancouver
 {
     public partial class FormCadastroReservas : Form
     {
+
+
+        Thread nt = null;
+
         public FormCadastroReservas()
         {
             InitializeComponent();
@@ -189,8 +194,16 @@ namespace HotelVancouver
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            new FormReservas().Show();
+            this.Close();
+
+            nt = new Thread(novoFormReservas);
+            nt.SetApartmentState(ApartmentState.STA);
+            nt.Start();
+        }
+
+        private void novoFormReservas()
+        {
+            Application.Run(new FormReservas());
         }
     }
 }

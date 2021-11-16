@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\HotelVancouver.csproj": {}
+    "C:\\git\\pimHotel\\HotelVancouver\\HotelVancouver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\HotelVancouver.csproj": {
+    "C:\\git\\pimHotel\\HotelVancouver\\HotelVancouver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\HotelVancouver.csproj",
+        "projectUniqueName": "C:\\git\\pimHotel\\HotelVancouver\\HotelVancouver.csproj",
         "projectName": "HotelVancouver",
-        "projectPath": "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\HotelVancouver.csproj",
+        "projectPath": "C:\\git\\pimHotel\\HotelVancouver\\HotelVancouver.csproj",
         "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emily\\Documents\\Pim - hotel vancouver\\HotelVancouver\\HotelVancouver\\obj\\",
+        "outputPath": "C:\\git\\pimHotel\\HotelVancouver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
