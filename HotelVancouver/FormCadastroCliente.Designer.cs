@@ -156,6 +156,7 @@ namespace HotelVancouver
             this.maskedTextBoxCpf.Size = new System.Drawing.Size(97, 23);
             this.maskedTextBoxCpf.TabIndex = 15;
             this.maskedTextBoxCpf.ValidatingType = typeof(System.DateTime);
+            this.maskedTextBoxCpf.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBoxCpf_MaskInputRejected);
             // 
             // maskedTextBoxRg
             // 

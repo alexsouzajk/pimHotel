@@ -75,5 +75,10 @@ namespace HotelVancouver
         {
 
         }
+
+        private void maskedTextBoxCpf_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }
