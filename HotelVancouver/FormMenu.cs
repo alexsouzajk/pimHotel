@@ -52,5 +52,35 @@ namespace HotelVancouver
         {
             Application.Run(new FormReservas());
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+            nt = new Thread(novoFormAcomodacao);
+            nt.SetApartmentState(ApartmentState.STA);
+            nt.Start();
+        }
+
+        private void novoFormAcomodacao()
+        {
+            Application.Run(new FormAcomodacao());
+        }
+
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+
+            nt = new Thread(novoFormClientes);
+            nt.SetApartmentState(ApartmentState.STA);
+            nt.Start();
+        }
+
+        private void novoFormClientes()
+        {
+            Application.Run(new FormCliente());
+        }
     }
 }

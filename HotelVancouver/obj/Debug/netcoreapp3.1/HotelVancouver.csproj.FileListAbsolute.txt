@@ -25,3 +25,39 @@ C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormReservas.resources
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroCliente.resources
 C:\Users\Emily\Documents\Pim - hotel vancouver\HotelVancouver\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarReservas.resources
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.exe
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.deps.json
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.runtimeconfig.json
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.runtimeconfig.dev.json
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\HotelVancouver.pdb
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\git\pimHotel\HotelVancouver\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.csproj.AssemblyReference.cache
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroAcomodacao.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroCliente.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroFuncionario.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroReservas.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCadastroServico.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarClientes.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarFuncionario.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarReservas.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarServico.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormLogin.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormMenu.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormReservas.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.csproj.GenerateResource.cache
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.AssemblyInfoInputs.cache
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.AssemblyInfo.cs
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.csproj.CoreCompileInputs.cache
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.dll
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.pdb
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.genruntimeconfig.cache
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormCliente.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormAcomodacao.resources
+C:\git\pimHotel\HotelVancouver\obj\Debug\netcoreapp3.1\HotelVancouver.FormConsultarAcomodacao.resources

@@ -37,8 +37,6 @@ namespace HotelVancouver
             this.label1 = new System.Windows.Forms.Label();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.comboBoxMeioPagamento = new System.Windows.Forms.ComboBox();
-            this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -173,30 +171,13 @@ namespace HotelVancouver
             this.label4.TabIndex = 11;
             this.label4.Text = "Selecione a quantidade de camas";
             // 
-            // comboBoxMeioPagamento
-            // 
-            this.comboBoxMeioPagamento.FormattingEnabled = true;
-            this.comboBoxMeioPagamento.Location = new System.Drawing.Point(32, 220);
-            this.comboBoxMeioPagamento.Name = "comboBoxMeioPagamento";
-            this.comboBoxMeioPagamento.Size = new System.Drawing.Size(221, 23);
-            this.comboBoxMeioPagamento.TabIndex = 14;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(32, 202);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(181, 15);
-            this.label5.TabIndex = 13;
-            this.label5.Text = "Selecione a forma de pagamento";
-            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(35)))), ((int)(((byte)(45)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Font = new System.Drawing.Font("Montserrat Medium", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(32, 274);
+            this.button1.Location = new System.Drawing.Point(30, 211);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(223, 51);
             this.button1.TabIndex = 15;
@@ -207,7 +188,7 @@ namespace HotelVancouver
             // 
             this.button2.BackColor = System.Drawing.Color.Red;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button2.Font = new System.Drawing.Font("Montserrat Medium", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Location = new System.Drawing.Point(712, 12);
             this.button2.Name = "button2";
@@ -223,8 +204,6 @@ namespace HotelVancouver
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.comboBoxMeioPagamento);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.comboBox3);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.comboBox2);
@@ -251,8 +230,6 @@ namespace HotelVancouver
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox comboBox3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.ComboBox comboBoxMeioPagamento;
-        private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
     }

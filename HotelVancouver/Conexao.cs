@@ -7,7 +7,7 @@ public class Conexao
 
 	public Conexao()
 	{
-		con.ConnectionString = @"Data Source=DESKTOP-GJDGJUK;Initial Catalog=hotelaria;Persist Security Info=True;User ID=sa;Password=12345678";
+		con.ConnectionString = @"Data Source=DESKTOP-UMA4OB1;Initial Catalog=hotelaria;Persist Security Info=True;User ID=sa;Password=12345678";
 	}
 
 	public SqlConnection conectar() {
